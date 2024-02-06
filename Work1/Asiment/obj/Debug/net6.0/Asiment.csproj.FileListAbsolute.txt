@@ -1,0 +1,15 @@
+C:\Users\ZBOOK\source\تدريب الشركه\Work1\Asiment\bin\Debug\net6.0\Asiment.exe
+C:\Users\ZBOOK\source\تدريب الشركه\Work1\Asiment\bin\Debug\net6.0\Asiment.deps.json
+C:\Users\ZBOOK\source\تدريب الشركه\Work1\Asiment\bin\Debug\net6.0\Asiment.runtimeconfig.json
+C:\Users\ZBOOK\source\تدريب الشركه\Work1\Asiment\bin\Debug\net6.0\Asiment.dll
+C:\Users\ZBOOK\source\تدريب الشركه\Work1\Asiment\bin\Debug\net6.0\Asiment.pdb
+C:\Users\ZBOOK\source\تدريب الشركه\Work1\Asiment\obj\Debug\net6.0\Asiment.csproj.AssemblyReference.cache
+C:\Users\ZBOOK\source\تدريب الشركه\Work1\Asiment\obj\Debug\net6.0\Asiment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZBOOK\source\تدريب الشركه\Work1\Asiment\obj\Debug\net6.0\Asiment.AssemblyInfoInputs.cache
+C:\Users\ZBOOK\source\تدريب الشركه\Work1\Asiment\obj\Debug\net6.0\Asiment.AssemblyInfo.cs
+C:\Users\ZBOOK\source\تدريب الشركه\Work1\Asiment\obj\Debug\net6.0\Asiment.csproj.CoreCompileInputs.cache
+C:\Users\ZBOOK\source\تدريب الشركه\Work1\Asiment\obj\Debug\net6.0\Asiment.dll
+C:\Users\ZBOOK\source\تدريب الشركه\Work1\Asiment\obj\Debug\net6.0\refint\Asiment.dll
+C:\Users\ZBOOK\source\تدريب الشركه\Work1\Asiment\obj\Debug\net6.0\Asiment.pdb
+C:\Users\ZBOOK\source\تدريب الشركه\Work1\Asiment\obj\Debug\net6.0\Asiment.genruntimeconfig.cache
+C:\Users\ZBOOK\source\تدريب الشركه\Work1\Asiment\obj\Debug\net6.0\ref\Asiment.dll
